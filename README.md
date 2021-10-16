@@ -1,2 +1,2 @@
 # Python-Script
-Hactoberfest2021
+Hacktoberfest2021
